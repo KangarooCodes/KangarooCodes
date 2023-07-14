@@ -1,7 +1,6 @@
-- 👋 I’m @KangarooCodes, or Joey. It's Wonderful to meet you.
-- 👀 I’m heavily interested in Programming, Gaming, Self-Improvement and Hockey
-- 🌱 I’m currently learning JavaScript, HTML, CSS; Much more in the future.
-- I have a history in Business, HVAC, Sales and now computer programming!
+# 👋 Hi, I’m Joey Rider
+### I am an aspiring Software Engineer.
+Welcome to my page! Please enjoy what you find, and don't hesitate to contact me by any means.
 
-
-- 📫 You can reach me via email @ rider@live.com for any discussion, or just to say "Hello!"
+## riderj@hotmail.com
+## https://www.linkedin.com/in/joey-rider-96808b94/
